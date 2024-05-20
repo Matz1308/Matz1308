@@ -8,6 +8,8 @@ Email: matheus.freitas.santos138@gmai.com
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matz1308&show_icons=true&theme=radical)
 
+![Matheus Status Bar](https://github-readme-stats.vercel.app/api/top-langs/?username=Matz1308&layout=compact)
+
 ### Tecnologias que eu uso no meu dia a dia
 
 <div style="display: ineline_block"><br/>
